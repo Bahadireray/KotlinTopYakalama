@@ -1,10 +1,15 @@
 # KotlinTopYakalama
 Bu uygulama içerisinde,
 *Android sharedpreferences
+
 *Android Runnable, Handle
+
 *Splash Activity
+
 *Android Alert Dialog
-*Android Animasyon…. Gibi kullanımların hepsini bir arada kullanıp bir top yakalama oyunu yapacağız.
+
+*Android Animasyon….
+ Gibi kullanımların hepsini bir arada kullanıp bir top yakalama oyunu yapacağız.
 Image for post
 Öncelik olarak bir animasyon oluşturmak için Res klasörünün sağ tıklayıp Android Resource Directory diyerek bir anim dosyası oluşturuyoruz.
 Oluşturuğumuz dosyanın içerisine,
